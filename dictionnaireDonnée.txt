@@ -1,0 +1,57 @@
+dictinnaire de donées
+
+
+centre afpa
+stagiaire 
+employer 
+trajet 
+déployer dans d autre endroit 
+covoiturier 
+administrateur 
+statut actif/inactif 
+
+utilisateur:
+Nom ;
+Prénom 
+E-mail ;
+Numéro de téléphone ;
+Fonction à l’AFPA {stagiaire, employé } ;
+Photo de profil (facultative).
+
+Nom de la formation
+formateur référent
+Rôle dans la structure
+Le mot de passe
+
+véhicule :
+
+Modèle 
+Type de véhicule
+Type de carburant
+Nombre de places disponibles
+Estimation de la consommation au 100 km 
+
+ trajets:
+Adresse de départ 
+Heure de départ approximative 
+Adresse d’arrivée 
+Véhicule utilisé 
+Prix du trajet
+Type de trajet
+régulier
+ponctuel 
+
+une demande de participation 
+validation du conducteur
+notification 
+numéro de téléphone
+commentaire
+Canal de communication
+une session de formation date de début et une date de fin
+Le nom du centre 
+Les horaires d’ouverture 
+L’adresse du centre
+
+
+
+
